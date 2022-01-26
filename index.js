@@ -1,9 +1,13 @@
 function isPalindrome(word) {
-  // Write your algorithm here
-}
+  if (word[0] = word.length - 1) {
+    return true
+  } else (word)
+} return false
 
 /* 
-  Add your pseudocode here
+  function (string)
+  if string is palindrome, return true
+  if string is not palindrome, return false
 */
 
 /*
